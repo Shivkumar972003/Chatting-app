@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b166a9b2.css",
+    "main.js": "/static/js/main.8ac90a21.js",
+    "static/media/painting-mountain-lake-with-mountain-background_188544-9126.avif": "/static/media/painting-mountain-lake-with-mountain-background_188544-9126.7642c5cc5828b4e3e71d.avif",
+    "index.html": "/index.html",
+    "main.b166a9b2.css.map": "/static/css/main.b166a9b2.css.map",
+    "main.8ac90a21.js.map": "/static/js/main.8ac90a21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b166a9b2.css",
+    "static/js/main.8ac90a21.js"
+  ]
+}
