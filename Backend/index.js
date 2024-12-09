@@ -37,7 +37,7 @@ app.use("/api/v1/message",messageRoute)
 
 app.use(express.static(path.join(_dirname,"/Frontend/build")));
 app.get('*',(req,res) => {
-  res.sendFile(path.resolve(_dirname,"Frontend","build ","index.html"))
+  res.sendFile(path.resolve(_dirname,"Frontend","build","index.html"))
 })
 
 server.listen(PORT, () => {
